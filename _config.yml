@@ -29,7 +29,7 @@ twitter_username: anna_ziola
 github_username:  anzi8667
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
